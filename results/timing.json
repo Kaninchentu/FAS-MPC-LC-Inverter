@@ -1,0 +1,22 @@
+{
+ "340.0": {
+  "qp_solve_med": 82.10000000000001,
+  "qp_solve_p99": 528.9809999999981,
+  "qp_solve_max": 1108.1000000000001,
+  "py_med": 99.79998867493123,
+  "unc_ok": 98.33333333333333,
+  "iters_med": 25.0,
+  "iters_max": 350,
+  "cpu": "Intel Core i9-14900, single process"
+ },
+ "300.0": {
+  "qp_solve_med": 82.0,
+  "qp_solve_p99": 832.3589999999986,
+  "qp_solve_max": 1298.3999999999999,
+  "py_med": 99.29999941959977,
+  "unc_ok": 93.16666666666667,
+  "iters_med": 25.0,
+  "iters_max": 400,
+  "cpu": "Intel Core i9-14900, single process"
+ }
+}

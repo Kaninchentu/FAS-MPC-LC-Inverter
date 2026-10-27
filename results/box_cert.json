@@ -1,0 +1,24 @@
+{
+ "delay0": {
+  "n_points": 6405,
+  "max_rho": 0.9996793714498559,
+  "argmax": {
+   "Lr": 1.3,
+   "Cr": 1.1,
+   "G": -0.033
+  },
+  "max_fast_rho": 0.9899992638118452,
+  "all_stable": true
+ },
+ "delay1": {
+  "n_points": 6405,
+  "max_rho": 0.9996497597554581,
+  "argmax": {
+   "Lr": 1.3,
+   "Cr": 1.1,
+   "G": -0.033
+  },
+  "max_fast_rho": 0.9899994527593984,
+  "all_stable": true
+ }
+}
